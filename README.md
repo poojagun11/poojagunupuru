@@ -17,6 +17,8 @@ Hi, I'm **Pooja Gunupuru**, a skilled **Software Developer** specializing in **D
 
 # 📫 Get in touch
 
-**www.linkedin.com/in/pooja-gun**
+<a href="https://www.linkedin.com/in/pooja-gun/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+
+<a href="mailto:poojagunupuru11@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
   
-**poojagunupuru11@gmail.com**
+
